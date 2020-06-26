@@ -12,3 +12,10 @@
    Note: In mode a, the height of the div cannot be changed by other elements. Here you can only change it by directly giving it CSS height.
          In mode b, the height of the div element will change according the child element's height. <br>
    Note: At least one inner element should have a height so that the parent element be visible.
+   
+2. The parent div and the child div has a height (none of the elements have margin or padding). Here 3 modes may happen:
+   a) The parent div's height is more than the child's height.
+   
+   b) The parent div's height is equal to the child's height.
+   c) The parent div's height is less than the child's height.
+   
