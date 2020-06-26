@@ -4,7 +4,7 @@
    
    By empty I mean having no child elements.
    
-   There are two ways to give a div a height: <br>
+   There are two ways to give div a height: <br>
    a) By giving it height directly using CSS. <br>
    b) By giving it at least one child element that should have a height.
    
