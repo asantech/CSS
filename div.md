@@ -15,7 +15,6 @@
    
 2. The parent div and the child div has a height (none of the elements have margin or padding). Here 3 modes may happen:
    a) The parent div's height is more than the child's height.
-   
    b) The parent div's height is equal to the child's height.
    c) The parent div's height is less than the child's height.
    
